@@ -1,3 +1,6 @@
+[![STOP SOPA](http://kinncj.com.br/kinn/stop_sopa.png)](http://kinncj.com.br/kinn)
+
+
 PHPFORMEEGO
 ==============
 
